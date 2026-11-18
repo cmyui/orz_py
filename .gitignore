@@ -1,0 +1,6 @@
+.venv/
+install/
+src/
+example_old.orz
+EXAMPLE.md
+example.replay.txt
